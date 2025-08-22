@@ -21,11 +21,11 @@ This is a personal portfolio website created using **HTML**, **CSS**, and **Java
 
     1. Clone this repo:  
     ```bash
-    git clone https://github.com/Riddhi-Boda/personal-portfolio
+    git clone https://github.com/Riddhi-Boda/R_personal-portfolio
 
     2. Open index.html in your browser
 
 ## 🌍 Live Demo
 
 [View Portfolio Live] 
-👉 https://riddhi-boda.github.io/personal-portfolio/
+👉 https://riddhi-boda.github.io/R_personal-portfolio/
